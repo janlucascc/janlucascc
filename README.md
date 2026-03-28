@@ -63,20 +63,8 @@ Me chamo Jan Lucas , tenho 18 anos e sou natural da Bahia. Concluí o ensino mé
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=janlucascc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=janlucascc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<details>
+    <summary> Github Stats</summary>
+    <img align="left" alt="janlucascc Github Stats" src="http://github-readme-stats-vert-pi-74.vercel.app/api?username=janlucascc&show_icons=true&hide_border=true" />
+</details>
