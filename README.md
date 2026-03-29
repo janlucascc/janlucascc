@@ -12,7 +12,7 @@ Me chamo Jan Lucas , tenho 18 anos e sou natural da Bahia. Concluí o ensino mé
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/jan-lucas404">
+    <a href="https://www.linkedin.com/in/janlucascc">
         <img 
             alt="Linkedin"
             title="Perfil no Linkedin"
