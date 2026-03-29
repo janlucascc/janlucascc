@@ -77,7 +77,7 @@ Me chamo Jan Lucas , tenho 18 anos e sou natural da Bahia. Concluí o ensino mé
         align = "left"
         alt = "Github Stats"
         height = "200"
-        src = "http://github-readme-stats-vert-pi-74.vercel.app/api/top-langs/?username=janlucascc&theme=tokyonight&layout=compact&custom_title=Linguagens e Tecnologias&langs_count=3" 
+        src = "http://github-readme-stats-vert-pi-74.vercel.app/api/top-langs/?username=janlucascc&theme=tokyonight&layout=compact&langs_count=3" 
     />
 
 </details>
