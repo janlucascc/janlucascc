@@ -1,4 +1,4 @@
-# 👨‍💻 Jan Lucas Galvão
+# **👨‍💻 Jan Lucas Galvão**
 
 **`Desenvolvedor FullStack`**
 
@@ -55,6 +55,22 @@ Me chamo Jan Lucas , tenho 18 anos e sou natural da Bahia. Concluí o ensino mé
     width="60px"
     style="padding-right: 20px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+    align="left"
+    alt="C"
+    title="C"
+    width="70px"
+    style="padding-right: 20px"
+    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
+/>
+<img
+    align="left"
+    alt="SQLite"
+    title="SQLite"
+    width="100px"
+    style="padding-right: 10px"
+    src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
 />
 
 <br/>
