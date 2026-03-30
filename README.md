@@ -72,6 +72,15 @@ Me chamo Jan Lucas , tenho 18 anos e sou natural da Bahia. Concluí o ensino mé
     style="padding-right: 10px"
     src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
 />
+<img
+    align="left"
+    alt="SQLite"
+    title="SQLite"
+    width="60px"
+    style="padding-right: 10px"
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"
+/>
+
 
 <br/>
 <br/>
